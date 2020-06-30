@@ -13,3 +13,4 @@ Sample website with plenty of files for demos
 ## Deployment
 
 HI hi
+# Copyright
