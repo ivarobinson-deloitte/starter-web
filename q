@@ -1,0 +1,51 @@
+* [33m6620d46[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updates to humans file
+* [33m09918d5[m Stash test quick fix
+* [33m21d7942[m committing simple changes
+* [33m392fe0b[m Quick fix
+* [33m805e2d1[m change
+* [33m85c664c[m local change
+* [33m9e117fe[m Update simple.html
+* [33m9f20de7[m fb adding some trouble
+* [33m6126bd4[m mb conflicting changes
+* [33mfef2283[m mb before rebasing conflicts
+* [33m2937eba[m Simple change
+* [33m813aac8[m Thanks
+* [33m78542f0[m Adding to readme
+* [33m3bb03b2[m Updating ignore file to exclude merge temp files
+*   [33mc921db8[m Done
+[32m|[m[33m\[m  
+[32m|[m * [33m1458d1e[m Making changes to simple.html
+* [33m|[m [33m492d065[m Adding conflicting changes purposefully
+[33m|[m[33m/[m  
+*   [33mbb70fbc[m Merge changes from simple branch
+[34m|[m[35m\[m  
+[34m|[m * [33m4f7f11e[m Adding
+[34m|[m * [33mc12b2b0[m copyright
+[34m|[m * [33mf80edb9[m hi
+* [35m|[m [33m6eac6c8[m Adding instructions
+[35m|[m[35m/[m  
+* [33m15f8efb[m hi
+* [33m4797eaf[m hi
+* [33mb384be7[m Adding
+* [33m8867e3f[m Adding
+* [33m0c9b7e1[m D
+* [33m1fccfd0[m Excluding logfiles
+* [33m79af7b0[m Adding git ignore
+* [33m6de0803[m Deleting
+* [33mf9dfef4[m Deleted hipster text file
+* [33m6c28c42[m Deleting new file
+* [33m03c0c05[m Moving level2
+* [33m9222875[m Moving file
+* [33m601a357[m Renaming level 2 file
+* [33m09363b9[m renaming
+* [33md675614[m "Recursively"
+* [33m6b8d502[m More
+* [33m2270595[m adding file
+* [33mb8bfa65[m Adding more ipsum text
+* [33m76da89e[m My first commit
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[36m|[m[1;31m\[m  
+[36m|[m * [33me73f914[m Adding Purpose section to README
+[36m|[m * [33m34f563b[m Adding README file
+[36m|[m[36m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
