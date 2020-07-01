@@ -12,7 +12,7 @@ Sample website with plenty of files for demos. Temp
 ## How To Contribute
 Please fork then issue pull for review
 ## Deployment
-
+Quick fix
 HI hi
 # Copyright
 
